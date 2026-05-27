@@ -1,0 +1,19 @@
+# Secrets & credentials
+.env
+credentials.json
+token.json
+
+# Runtime state & logs
+state.json
+watcher.log
+
+# Email audit copies (may contain private email content)
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Claude Code project instructions (personal context)
+CLAUDE.md

@@ -1,0 +1,5 @@
+anthropic
+pymupdf
+python-docx
+python-dotenv
+rank-bm25
